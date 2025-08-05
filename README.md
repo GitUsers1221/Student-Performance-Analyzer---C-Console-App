@@ -1,9 +1,6 @@
 # Student-Performance-Analyzer---C-Console-App
 A C++ console app to manage and analyze student academic performance with search, ranking, and progress features.
 
-# 🎓 Student Performance Analyzer
-
-A simple C++ console-based application to manage and analyze student performance data. Built as a DSA mini-project by Group-1.
 
 ## 📌 Features
 - Add subjects and students
